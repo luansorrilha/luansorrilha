@@ -9,6 +9,12 @@
   Campinas, São Paulo, Brazil
 </p>
 
+
+<p align="center">
+  <strong>English</strong> | <a href="./README.pt-BR.md">Português (BR)</a>
+</p>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luansorrilha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
