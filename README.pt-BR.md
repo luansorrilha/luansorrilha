@@ -82,7 +82,7 @@ Atuo no desenvolvimento de sistemas internos, integração de APIs e automação
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| ASSUMA Website | Site institucional responsivo com foco em sustentabilidade e experiência do usuário. | HTML, CSS, JavaScript |
+| [ASSUMA Website](https://github.com/luansorrilha/assuma-website) | Site institucional responsivo com foco em sustentabilidade e experiência do usuário. [Demonstração](https://luansorrilha.github.io/assuma-website/) | HTML, CSS, JavaScript |
 | Central de Chamados | Sistema de gerenciamento de chamados com comunicação em tempo real. | C#, ASP.NET Core, SQL Server, SignalR |
 | EcoAções | Aplicativo mobile voltado a iniciativas e ações ambientais. | Flutter, Dart, Firebase |
 
