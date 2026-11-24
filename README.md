@@ -84,7 +84,7 @@ I develop internal systems, integrate APIs and automate business processes, comb
 
 | Project | Description | Technologies |
 |---|---|---|
-| ASSUMA Website | Responsive institutional website focused on sustainability and user experience. | HTML, CSS, JavaScript |
+| [ASSUMA Website](https://github.com/luansorrilha/assuma-website) | Responsive institutional website focused on sustainability and user experience. [Live Demo](https://luansorrilha.github.io/assuma-website/) | HTML, CSS, JavaScript |
 | IT Help Desk | Ticket management system with real-time communication. | C#, ASP.NET Core, SQL Server, SignalR |
 | EcoAções | Mobile application for environmental initiatives. | Flutter, Dart, Firebase |
 
